@@ -17,6 +17,6 @@ For Admins
 - Feedback Management: Admins can view and respond to customer feedback.
   
 # Technologies Used
-Frontend: HTML, CSS, JavaScript
-Backend: PHP
-Database: MySQL
+- Frontend: HTML, CSS, JavaScript
+- Backend: PHP
+- Database: MySQL
